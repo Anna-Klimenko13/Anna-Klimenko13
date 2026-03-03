@@ -21,7 +21,7 @@ A modern, fully responsive promotional landing page for a beauty clinic and spa.
 * **Features:** Pixel-perfect Figma conversion, Absolute positioning for promo elements, Custom timer layout.
 * [🔗 View Source Code](https://github.com/Anna-Klimenko13/beauty-landing-page)
 
-#### 2. 📊 [Orange Dark Finance Dashboard](https://anna-klimenko13.github.io/dark-orange-dashboard/))
+#### 2. 📊 [Orange Dark Finance Dashboard](https://anna-klimenko13.github.io/dark-orange-dashboard/)
 
 A modern, dark-themed financial dashboard featuring a complex grid layout and stylish neon accents. 
 
@@ -33,6 +33,7 @@ A modern, dark-themed financial dashboard featuring a complex grid layout and st
 
 ---
 
-### 📫 Let's Connect!
-- **Email:** anna.klimenko6909@gmail.com
-- **Telegram:** @Anna_Klimenko13
+📫 **Let's Connect!**
+
+* **Email:** [anna.klimenko6909@gmail.com](mailto:anna.klimenko6909@gmail.com)
+* **Telegram:** [@Anna_Klimenko13](https://t.me/Anna_Klimenko13)
