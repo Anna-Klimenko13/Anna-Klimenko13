@@ -5,7 +5,7 @@
 I am a passionate Frontend Developer focusing on creating clean, responsive, and pixel-perfect websites. I love translating Figma designs into high-quality code. Open for freelance opportunities! 🚀
 
 ### 🛠️ My Skills
-- **Frontend:** HTML5, CSS3 (Flexbox, Grid), Responsive Design
+- **Frontend:** HTML5, CSS3 (Flexbox, Grid), JavaScript (Vanilla JS), Responsive Design
 - **Tools:** VS Code, Git, GitHub, Figma
 - **Methodologies:** Mobile-First, BEM
 
