@@ -29,6 +29,14 @@ A modern, dark-themed financial dashboard featuring a complex grid layout and st
 * **Features:** Pixel-perfect Figma conversion, advanced CSS Grid architecture (8-card dynamic layout), custom styling for scrollbars and form elements, dark UI design.
 * 🔗 [View Source Code](https://github.com/Anna-Klimenko13/dark-orange-dashboard)
 
+#### 3. 🍔 [FoodHub - Food Delivery Website](https://anna-klimenko13.github.io/foodhub-delivery/)
+
+A modern, interactive landing page for a food delivery service with dynamic menu filtering and shopping cart logic.
+
+* **Tech Stack:** HTML5, CSS3 (Flexbox, Grid), Vanilla JavaScript.
+* **Features:** Pixel-perfect Figma conversion, interactive JS category filtering, price sorting, shopping cart counter, form validation.
+* 🔗 [View Source Code](https://github.com/Anna-Klimenko13/foodhub-delivery)
+
 *(More projects coming soon...)*
 
 ---
