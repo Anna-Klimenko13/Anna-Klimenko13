@@ -11,20 +11,23 @@ Methodologies: Mobile-First, BEM
 📂 My Portfolio
 Here are my latest projects. Click on the title to view the live website!
 
-1. 🌸 The Day Beauty - Landing Page
+1. 🌸 The Day Beauty - Landing Page [https://anna-klimenko13.github.io/beauty-landing-page/]
 A modern, fully responsive promotional landing page for a beauty clinic and spa.
+https://github.com/Anna-Klimenko13/beauty-landing-page
 
 Tech Stack: HTML5, CSS3, Flexbox, CSS Grid.
 Features: Pixel-perfect Figma conversion, Absolute positioning for promo elements, Custom timer layout.
 🔗 View Source Code
-2. 📊 Orange Dark Finance Dashboard
+2. 📊 Orange Dark Finance Dashboard [https://anna-klimenko13.github.io/dark-orange-dashboard/]
 A modern, dark-themed financial dashboard featuring a complex grid layout and stylish neon accents.
+https://github.com/Anna-Klimenko13/dark-orange-dashboard
 
 Tech Stack: HTML5, CSS3, CSS Grid, Flexbox.
 Features: Pixel-perfect Figma conversion, advanced CSS Grid architecture (8-card dynamic layout), custom styling for scrollbars and form elements, dark UI design.
 🔗 View Source Code
-3. 🍔 FoodHub - Food Delivery Website
+3. 🍔 FoodHub - Food Delivery Website [https://anna-klimenko13.github.io/foodhub-delivery/]
 A modern, interactive landing page for a food delivery service with dynamic menu filtering and shopping cart logic.
+https://github.com/Anna-Klimenko13/foodhub-delivery
 
 Tech Stack: HTML5, CSS3 (Flexbox, Grid), Vanilla JavaScript.
 Features: Pixel-perfect Figma conversion, interactive JS category filtering, price sorting, shopping cart counter, form validation.
