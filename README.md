@@ -35,7 +35,7 @@ A modern, interactive landing page for a food delivery service with dynamic menu
 * **Features:** Pixel-perfect Figma conversion, interactive JS category filtering, price sorting, shopping cart counter, form validation.
 * 🔗 [View Source Code](https://github.com/Anna-Klimenko13/foodhub-delivery)
 
-  **4. 🏡 [HomeConnect - Real Estate Portal](https://anna-klimenko13.github.io/home-connect/)
+**4. 🏡 [HomeConnect - Real Estate Portal](https://anna-klimenko13.github.io/home-connect/)
 
 A premium, fully responsive real estate platform connecting buyers and owners without brokerage. Includes a detailed property page and an interactive user dashboard.
 
