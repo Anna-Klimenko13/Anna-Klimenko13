@@ -43,6 +43,14 @@ A premium, fully responsive real estate platform connecting buyers and owners wi
 * **Features:** Pixel-perfect Figma conversion, sticky sidebar dashboard, custom complex forms, interactive UI elements (hover states, smooth scroll), and dynamic gallery layout.
 * 🔗 [View Source Code](https://github.com/Anna-Klimenko13/home-connect)
 
+  **5. 🏙️ [Homes Arrow - Premium Real Estate Landing](https://anna-klimenko13.github.io/homes-arrow/)**
+
+A sleek, modern, and interactive landing page for a premium real estate agency. Features an elegant UI with overlapping elements, smooth animations, and an interactive property carousel.
+
+* **Tech Stack:** HTML5, CSS3 (Flexbox), Vanilla JavaScript, Swiper.js.
+* **Features:** Pixel-perfect Figma conversion, interactive infinite slider (Swiper.js), smooth CSS fade-up animations, advanced absolute positioning (overlapping layouts), and hover scaling effects.
+* 🔗 [View Source Code](https://github.com/Anna-Klimenko13/homes-arrow)
+
 *(More projects coming soon...)*
 
 ---
