@@ -19,7 +19,7 @@ I am a Frontend Developer specializing in modern React applications, interactive
 
 Here are my latest projects. Click the demo links to experience the live web applications!
 
-### 1. 🚀 [AI E-Commerce Card Generator](https://ai-ecommerce-card-generator.vercel.app/) *(New)*
+### 1. 🚀 [AI E-Commerce Card Generator](https://ai-ecommerce-card-generator.vercel.app/) 
 An interactive, global E-commerce web application designed for sellers on **Amazon, Shopify, and Etsy**. Features real-time UI catalog previews, multi-currency calculation ($ / €), and intelligent SEO/content generation algorithms.
 * **Tech Stack:** React, Tailwind CSS, Vite, Lucide Icons, LocalStorage API.
 * **Key Features:** Dynamic marketplace template switching (Amazon/Shopify/Etsy), live visual store previews, automated keyword embedding, and browser-memory history tracking without data loss.
@@ -27,7 +27,7 @@ An interactive, global E-commerce web application designed for sellers on **Amaz
 
 ---
 
-### 2. 🍏 NutriQ - Smart Calorie & Meal Plan Generator (New)**
+### 2. 🍏 NutriQ - Smart Calorie & Meal Plan Generator 
 
 A sleek, modern web application for personalized daily calorie calculation and multi-day meal planning, wrapped in a premium dark-mode UI.
 
