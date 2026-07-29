@@ -27,7 +27,7 @@ An interactive, global E-commerce web application designed for sellers on **Amaz
 
 ---
 
-### 2. 🍏 NutriQ - Smart Calorie & Meal Plan Generator 
+**2. 🍏 [NutriQ - Smart Calorie & Meal Plan Generator](https://nutri-q-six.vercel.app/) **
 
 A sleek, modern web application for personalized daily calorie calculation and multi-day meal planning, wrapped in a premium dark-mode UI.
 
