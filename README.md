@@ -27,7 +27,16 @@ An interactive, global E-commerce web application designed for sellers on **Amaz
 
 ---
 
-### 2. 💄 The Day Beauty - Promotional Landing Page
+### 2. 🍏 NutriQ - Smart Calorie & Meal Plan Generator (New)**
+
+A sleek, modern web application for personalized daily calorie calculation and multi-day meal planning, wrapped in a premium dark-mode UI.
+
+* **Tech Stack:** React (Vite), Tailwind CSS, JavaScript (ES6+).
+* **Key Features:** Complex state management for multi-step forms, Mifflin-St Jeor equation math logic, dynamic UI localization (RU/EN), custom CSS animations (AI pulse loading state), and an interactive grocery list generator.
+* **Links:** [Live Demo](https://nutri-q-six.vercel.app/) | [Source Code](https://github.com/Anna-Klimenko13/nutri-q)
+
+  
+### 3. 💄 The Day Beauty - Promotional Landing Page
 A modern, fully responsive promotional landing page for a premium beauty clinic and spa.
 * **Tech Stack:** HTML5, CSS3, Flexbox, CSS Grid.
 * **Key Features:** Pixel-perfect Figma conversion, absolute positioning for promotional badges, custom interactive timer layouts, and smooth micro-animations.
@@ -35,7 +44,7 @@ A modern, fully responsive promotional landing page for a premium beauty clinic 
 
 ---
 
-### 3. 📊 Orange Dark Finance Dashboard
+### 4. 📊 Orange Dark Finance Dashboard
 A sleek, dark-themed financial analytical dashboard featuring a complex grid layout and stylish neon accents for SaaS applications.
 * **Tech Stack:** HTML5, CSS3, CSS Grid, Flexbox.
 * **Key Features:** Advanced CSS Grid architecture (5-card dynamic layout), custom styling for scrollbars and form elements, dark UI/UX design principles.
@@ -43,7 +52,7 @@ A sleek, dark-themed financial analytical dashboard featuring a complex grid lay
 
 ---
 
-### 4. 🍔 FoodHub - Food Delivery Web Interface
+### 5. 🍔 FoodHub - Food Delivery Web Interface
 An interactive E-commerce web interface for a food delivery service with dynamic menu filtering and shopping cart logic.
 * **Tech Stack:** HTML5, CSS3 (Flexbox, Grid), Vanilla JavaScript (ES6).
 * **Key Features:** Interactive JS category filtering, price sorting, real-time shopping cart counter, and custom form validation.
@@ -51,7 +60,7 @@ An interactive E-commerce web interface for a food delivery service with dynamic
 
 ---
 
-### 5. 🏡 HomeConnect - Real Estate Platform
+### 6. 🏡 HomeConnect - Real Estate Platform
 A premium, fully responsive real estate platform connecting buyers and property owners. Includes detailed property views and an interactive user dashboard.
 * **Tech Stack:** HTML5, CSS3 (Flexbox, CSS Grid), Vanilla JavaScript.
 * **Key Features:** Sticky sidebar dashboard, custom complex forms, interactive hover states, smooth scrolling, and dynamic gallery layouts.
@@ -59,7 +68,7 @@ A premium, fully responsive real estate platform connecting buyers and property 
 
 ---
 
-### 6. 🏛 Homes Arrow - Premium Real Estate Landing
+### 7. 🏛 Homes Arrow - Premium Real Estate Landing
 A sleek, interactive landing page for a luxury real estate agency. Features an elegant UI with overlapping elements and property carousels.
 * **Tech Stack:** HTML5, CSS3, Vanilla JavaScript, Swiper.js.
 * **Key Features:** Interactive infinite sliders (Swiper.js), smooth CSS fade-up animations, advanced overlapping layouts, and hover scaling effects.
